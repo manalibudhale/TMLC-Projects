@@ -1,5 +1,4 @@
-# TMLC-Projects
-### Project: Road Traffic Severity Classification (Python-JupyterNotebook)
+# Project: Road Traffic Severity Classification (Python-JupyterNotebook)
 
 In this project, Exploratory Data Analysis (EDA) was conducted to better understand the dataset. The data was visualized to identify patterns and detect any missing values, which were addressed during preprocessing. LabelEncoder was applied to convert categorical variables into a numeric form. The dataset was then split into training and testing sets to evaluate model performance.
 
